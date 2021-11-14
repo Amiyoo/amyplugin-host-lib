@@ -49,5 +49,5 @@ dependencies {
     provided 'com.android.support:support-v4:25.2.0'
 }
 
-project.ext.RP_ARTIFACT_ID = 'amyplugin-host-lib'
-apply from: '../../rp-publish.gradle'
+//project.ext.RP_ARTIFACT_ID = 'amyplugin-host-lib'
+//apply from: '../../rp-publish.gradle'
